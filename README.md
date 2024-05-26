@@ -1,9 +1,9 @@
-______Medical Scan to 3D Image Conversion______
+#Medical Scan to 3D Image Conversion
 
-__Overview__
+##__Overview__
 This Unity project converts medical scan results, such as X-ray images, into 3D images. Utilizing Unity's powerful rendering capabilities, this project aims to provide an intuitive and interactive way to visualize medical scans in three dimensions, enhancing the ability for diagnosis and analysis.
 
-__Features__
+##__Features__
 X-ray Image Import: Import X-ray images in standard formats (JPEG, PNG, DICOM).
 3D Reconstruction: Convert 2D X-ray images into 3D models using advanced algorithms.
 Interactive Visualization: Rotate, zoom, and pan the 3D models for detailed examination.

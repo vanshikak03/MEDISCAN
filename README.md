@@ -19,7 +19,7 @@ Basic knowledge of Unity and C# scripting
 
 sh 
 Copy code
-git clone https://github.com/vanshikak03/medical-scan-to-3d.git
+git clone [https://github.com/vanshikak03/medical-scan-to-3d.git](https://github.com/vanshikak03/MEDISCAN/blob/main/README.md)
 
 2.Open the project in Unity:
 

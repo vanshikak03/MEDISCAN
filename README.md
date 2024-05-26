@@ -67,9 +67,6 @@ Commit your changes (git commit -m 'Add new feature').
 Push to the branch (git push origin feature/new-feature).
 Create a Pull Request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgements
 Thanks to the Unity community for the invaluable resources and support.
 Inspired by existing medical imaging tools and technologies.

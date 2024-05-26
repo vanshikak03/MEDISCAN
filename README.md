@@ -50,14 +50,13 @@ Click the "Convert to 3D" button to start the reconstruction process.
 Use mouse or touch controls to interact with the generated 3D model.
 Adjust visualization settings via the settings panel.
 
-## Folder Structure
-Assets/
-Scripts/: Contains C# scripts for image processing, 3D reconstruction, and UI interaction.
-Resources/: Stores resources like X-ray images and prefabs.
-Scenes/: Contains Unity scenes, including the main scene for the project.
-Prefabs/: Prefabricated objects used in the scenes.
-Materials/: Materials used for rendering 3D models.
-UI/: UI elements and panels.
+## Image Examples:
+
+![image](https://github.com/vanshikak03/MEDISCAN/assets/158055799/4e019470-b3aa-4286-b7d2-a16007fc93c2)
+
+![image](https://github.com/vanshikak03/MEDISCAN/assets/158055799/2a962e8e-0fa8-4e54-a8c2-fc7e22a3e8e8)
+
+![image](https://github.com/vanshikak03/MEDISCAN/assets/158055799/4e923310-39cb-4ca4-9787-a99153b00d18)
 
 ## Contributing
 We welcome contributions to enhance the project. To contribute:
